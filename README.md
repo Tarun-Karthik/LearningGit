@@ -1,2 +1,2 @@
 # LearningGit
-learninggit
+This repo is created to learn GIT
